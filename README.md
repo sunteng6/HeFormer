@@ -2,7 +2,7 @@
 This is a reimplementation of the code and dataset used for "HeFormer: A Lightweight Transformer Architecture Combining Hash Estimation Subgraph Structure Features for Link Prediction."
 Our code and Readme file will be refined later...
 # Requirements
-python >= 3.9
+python >= 3.9\\
 pytorch >= 1.9.1+cu111
 torch_geometric >= 2.2.0
 torch-scatter >= 2.0.7
