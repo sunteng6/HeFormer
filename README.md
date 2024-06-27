@@ -1,2 +1,3 @@
 # HeFormer
-HeFormer: A Lightweight Transformer Architecture Combining Hash Estimation Subgraph Structure Features for Link Prediction
+HeFormer: A Lightweight Transformer Architecture Combining Hash Estimation Subgraph Structure Features for Link Prediction.
+Our code and Readme file will be refined later...
